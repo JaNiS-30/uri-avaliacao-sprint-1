@@ -1,0 +1,4 @@
+1. O valor de uma constante pode ser mudado após a sua declaração? E explique a finalidade de se usar uma constante. Cite também as diferenças entre var e let.
+Depois de declarada, uma const não pode mais ser modificada. Seu uso é para quando se deseja manter o mesmo valor em uma "variável constante", sem modificação
+var é uma variável que tem escopo global, recebe valores de qualquer tipo
+let é uma variável com escopo local, onde é delarada, recebe valores de qualquer tipo
