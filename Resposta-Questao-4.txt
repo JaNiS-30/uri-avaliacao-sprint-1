@@ -1,0 +1,6 @@
+4.Descreve em poucas palavras os principais métodos HTTP:
+GET: É o método utilizado para fazer uma requisição a um HTTP, pode levar parâmetros na URL
+POST: Leva os parâmetros no corpo da requisição, deixando ocultos da URL
+PATH: É uma requisição com o intencionamento de atualizar apenas alguns atributos
+PUT: É uma requisição com o intencionamento de atualizar todos os atributos
+DELETE: É uma requisição com o intencionamento de deletar atributos
