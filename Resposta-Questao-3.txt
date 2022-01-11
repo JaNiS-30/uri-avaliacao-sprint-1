@@ -1,0 +1,4 @@
+3.Qual definição de função abaixo é inválida?
+[ ] - function minhaFuncao () {}
+[ ] - const funcao = () => {}
+[X] - function funcao = () => {}
